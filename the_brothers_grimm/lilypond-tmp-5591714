@@ -1,0 +1,1 @@
+mark /OutputFile (./lilypond-tmp-2365966.pdf) /CompatibilityLevel 1.4 /PageSize [648.00 864.00] (pdfwrite) finddevice putdeviceprops pop (pdfwrite) selectdevice newpath fill (./lilypond-tmp-2365966) (r) file  run
